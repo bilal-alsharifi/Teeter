@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Teeter.exe" version="1.0.0.6" publicKeyToken="2e1f8bd9bc5d9082" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Teeter.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Teeter" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Teeter.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Teeter.exe" size="88576">
+      <assemblyIdentity name="Teeter" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>EjvzfSBDSf+XZZ/6dqGsmjRE6zg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Content\background.xnb" size="1637845">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>k3P++x5jt5CENXrwn+XjkoKpieI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\blank.xnb" size="149">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wCkAfu1UMnqBxMP5uOHzMOqwl6E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\gamefont.xnb" size="70626">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>KIFhdxjfKEulj80BnU2qU22uqhY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\gradient.xnb" size="341">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>jP1sIh7dMc/ZjhXZA4b2wEEgtj0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\menufont.xnb" size="37858">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>LKE6UHIPm7jmpTgZD7sFreWgnmE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\BallModel.xnb" size="25157">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>p4gMQpKiAxe0Cuj3kzuM31IO/WE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\BallText.xnb" size="65621">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ChEzz+tZ10Kq0jtABtEv+4d+9gg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\BALLTEXT_0.xnb" size="11049">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NiU5GDfHItVu9WRJJXD9z3rwvoM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\CollisionSound.xnb" size="7161">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HidpfyYOGrORbM7l/gsjWwyGOcg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\FinishGameSound.xnb" size="25015">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+VhpQRaQZ/cpNq1pxW/N04vylEY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\FloorTexture_Moquette.xnb" size="640085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>IB2mbzT4E+vXdtdljDgYGm5HleQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\FloorTexture_Wood.xnb" size="4096085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>tXg2+bKV6stixNlm4RKGAo4AlmM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\Font.xnb" size="37858">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ILh7ToHnmIvSZUbFBkCBf6VBXiM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\HoleSound.xnb" size="102505">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4lBgG9ozme0NscAiDhH2s02h5hM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\HoleTexture_Moquette.xnb" size="640085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UBuhxS2Z//VzbwoCICXLH3oHcqY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\HoleTexture_Wood.xnb" size="2560085">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>pV49Ah6xlK7FY4WSrD6YgBndA18=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\WinningHoleSound.xnb" size="54253">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bG9N4+MmEru9gp/BAKflDGg1XdQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\winningHoleTexture_Moquette.xnb" size="9301">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kcbgqt12rgnvfj5fEgBjJMXiaqk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\MyContent\winningHoleTexture_Wood.xnb" size="9301">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ou0BJ7s+m8weOEIhaRj0AXk1j60=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Teeter.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>uq34tmvdIAYYM0wpgZdJtPJTKcU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Bilalo89-VAIO\Bilalo89" issuerKeyHash="f663d447d3a827bf84f1a68dd897b912263859d1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>j+rqIOJ4swxn4mYYmjhuJiuos0Q=</DigestValue></Reference></SignedInfo><SignatureValue>e2tu3UE5wcjG78aFgDZ7W3U4hneZiF4j93RWHYF+uw1N8TxrieuxzcP61OYsMT1lF/vv84SVqxY1Xw7cZ64Y2lliFc9LxcU9E1CmSVvxFPD/dwIBZ+HNfD2nM6J0U/kCmnUa3DaWUTc0HMbyiYX20cwCQNz/AIM460vBPzPCHLU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9pYzV8dVFaIfW3usvXkucssPAIbj6McdfNiLDiiBVE3tJjADzTE8TvL3hqoeEglRB5dLCkCLheJWWEhovbQ2ZrrQaWc92vg6+FVliBUJKHt/QQexBiBEUQpytJe8EbTWvLT1NUaEy3aXV3TLYkp3kpYbnsC1KKV/M8Nn8u/X/HM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="44b3a82b266e389a1866e2670cb378e220eaea8f" Description="" Url=""><as:assemblyIdentity name="Teeter.exe" version="1.0.0.6" publicKeyToken="2e1f8bd9bc5d9082" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Bilalo89-VAIO\Bilalo89</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>3DELnF2OLvq+Sj7RxL23cX8iels=</DigestValue></Reference></SignedInfo><SignatureValue>TZe4vz/ZWKQMc/M8pig8208PcWbXiN39SVBkJ+BFjWgTQfOJZP2TMN2IPcTvpCbdz/WDE2ocmG43IVY4viQflQYgVP5xXlhPNKKVL42uIHdwtyclFIpAvoBC8j7jbpDDzJGkKz7/vMHw7mawE1PwQVEeINfOIpG5b446q+O7sfg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9pYzV8dVFaIfW3usvXkucssPAIbj6McdfNiLDiiBVE3tJjADzTE8TvL3hqoeEglRB5dLCkCLheJWWEhovbQ2ZrrQaWc92vg6+FVliBUJKHt/QQexBiBEUQpytJe8EbTWvLT1NUaEy3aXV3TLYkp3kpYbnsC1KKV/M8Nn8u/X/HM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQbQkI0Vocf7FJBOTYBVwW/jANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwAQgBpAGwAYQBsAG8AOAA5AC0AVgBBAEkATwBcAEIAaQBsAGEAbABvADgAOTAeFw0xMTAyMDgwMzUyNDBaFw0xMjAyMDgwOTUyNDBaMDcxNTAzBgNVBAMeLABCAGkAbABhAGwAbwA4ADkALQBWAEEASQBPAFwAQgBpAGwAYQBsAG8AOAA5MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD2ljNXx1UVoh9be6y9eS5yyw8AhuPoxx182IsOKIFUTe0mMAPNMTxO8veGqh4SCVEHl0sKQIuF4lZYSGi9tDZmutBpZz3a+Dr4VWWIFQkoe39BB7EGIERRCnK0l7wRtNa8tPU1RoTLdpdXdMtiSneSlhuewLUopX8zw2fy79f8cwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAB3me1R/Xxi28nOZQvwfa2vzFnSylGVKhUMgRv5FJtKGWvgUzTPdzH+RQGiPqzYWrJRH+JDD/jx5hoAl7+r98EIgnIZfpjsa2FGkfvk2OYhOmaaIhIkTpjsMn/BXLRkIwRx16R8FkaTW1U4Au8J221vZFWUf/bHmf8wUXynBmnbv</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

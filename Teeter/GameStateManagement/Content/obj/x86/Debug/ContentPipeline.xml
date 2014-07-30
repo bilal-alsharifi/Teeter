@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2010-07-13T17:59:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2010-07-13T17:59:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2010-07-13T17:59:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\BallText.jpg</Source>
+      <Name>MyContent\BallText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BallText.xnb</Output>
+      <Time>2011-02-08T00:20:49.7390953+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\FloorTexture_Moquette.jpg</Source>
+      <Name>MyContent\FloorTexture_Moquette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Moquette.xnb</Output>
+      <Time>2011-02-08T00:20:49.6890925+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\FloorTexture_Wood.jpg</Source>
+      <Name>MyContent\FloorTexture_Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Wood.xnb</Output>
+      <Time>2011-02-08T00:20:49.7010931+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\HoleTexture_Moquette.png</Source>
+      <Name>MyContent\HoleTexture_Moquette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Moquette.xnb</Output>
+      <Time>2011-02-08T00:20:49.7140939+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\HoleTexture_Wood.png</Source>
+      <Name>MyContent\HoleTexture_Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Wood.xnb</Output>
+      <Time>2011-02-08T00:20:49.7260946+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\winningHoleTexture_Moquette.png</Source>
+      <Name>MyContent\winningHoleTexture_Moquette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Moquette.xnb</Output>
+      <Time>2011-02-08T00:20:49.7320949+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\winningHoleTexture_Wood.png</Source>
+      <Name>MyContent\winningHoleTexture_Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Wood.xnb</Output>
+      <Time>2011-02-08T00:20:49.7350951+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2010-07-13T17:59:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2011-02-09T04:47:18.6710218+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\Font.spritefont</Source>
+      <Name>MyContent\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\Font.xnb</Output>
+      <Time>2011-02-08T22:17:02.8694603+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\CollisionSound.wav</Source>
+      <Name>MyContent\CollisionSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\CollisionSound.xnb</Output>
+      <Time>2011-02-08T00:20:35.5502838+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\HoleSound.wav</Source>
+      <Name>MyContent\HoleSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleSound.xnb</Output>
+      <Time>2011-02-08T00:20:49.7040933+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\WinningHoleSound.wav</Source>
+      <Name>MyContent\WinningHoleSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\WinningHoleSound.xnb</Output>
+      <Time>2011-02-08T00:20:49.7280947+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\FinishGameSound.wav</Source>
+      <Name>MyContent\FinishGameSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FinishGameSound.xnb</Output>
+      <Time>2011-02-08T21:04:48.87557+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\BallModel.fbx</Source>
+      <Name>MyContent\BallModel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BallModel.xnb</Output>
+      <Time>2011-02-08T00:20:49.7370952+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\MyContent\BallModel_0.xml</Key>
+        <Value>2011-02-09T04:43:31.2890163+02:00</Value>
+      </Dependency>
+      <Request>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BALLTEXT_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>MyContent\BallModel.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\MyContent\BallModel_0.xml</Output>
+      <Time>2011-02-08T00:20:49.7370952+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MyContent\BALLTEXT.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BALLTEXT_0.xnb</Output>
+      <Time>2011-02-08T00:20:49.7390953+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Culture\University\3rd Year\Scientific Calculations\Teeter\Teeter\GameStateManagement\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Culture\University\3rd Year\Scientific Calculations\Teeter\Teeter\GameStateManagement\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Culture\University\3rd Year\Scientific Calculations\Teeter\Teeter\GameStateManagement\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Culture\University\3rd Year\Scientific Calculations\Teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-03T02:10:15.1458691+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

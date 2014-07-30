@@ -1,0 +1,53 @@
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\background.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\blank.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\gradient.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\BallText.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\gamefont.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\menufont.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\Font.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\CollisionSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\WinningHoleSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\BallModel.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Content\MyContent\BALLTEXT_0.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Teeter.exe
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\bin\x86\Debug\Teeter.pdb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\obj\x86\Debug\Teeter.exe
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\obj\x86\Debug\Teeter.pdb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\background.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\blank.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\gradient.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BallText.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FloorTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Moquette.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\winningHoleTexture_Wood.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\gamefont.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\menufont.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\Font.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\CollisionSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\HoleSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\WinningHoleSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\FinishGameSound.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BallModel.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Content\MyContent\BALLTEXT_0.xnb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Teeter.exe.manifest
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Teeter.application
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Teeter.exe
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\bin\x86\Debug\Teeter.pdb
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\Teeter.exe.manifest
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\Teeter.application
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\Teeter.exe
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\obj\x86\Debug\Teeter.pdb

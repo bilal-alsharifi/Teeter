@@ -1,0 +1,4 @@
+C:\Users\Bilalo89\Desktop\GameStateManagementSample\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\New folder\GameStateManagementSample\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter - Copy (14)\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Culture\University\3rd Year\Scientific Calculations\teeter\Teeter\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
